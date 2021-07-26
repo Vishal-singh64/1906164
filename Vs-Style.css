@@ -1,0 +1,34 @@
+.vs-planeSheet{
+  background-color: #f8f8f8;
+  height:100%;width: 60%;
+  font-size:100%;
+  position:relative;
+  margin: auto;
+  margin-top: 40px;
+  margin-down:20px;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+.mb-3{
+  margin-left:10px;
+  margin-right: 10px;
+  
+}
+.vs-profile{
+  height:20%;
+  width:20%;
+  margin-left:40%;
+  
+}
+.col-md-4{
+  width:50%;
+}
+
+input-field{
+  margin-top:25px;
+}
+
+label{
+  padding:10px;
+}
